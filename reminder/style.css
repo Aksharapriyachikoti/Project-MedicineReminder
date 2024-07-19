@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(204, 201, 201);
+    
+}
+
+.container {
+    max-width: 650px;
+    width: 100%;
+    margin: auto;
+}
+
+.col {
+    height: 180vh;
+    background-color: #fff;
+    width: inherit;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.title {
+    height: 200px;
+    background-color: rgba(109, 109, 179, 0.945);
+    color: rgb(253, 253, 253);
+    padding: 0 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.title h1 {
+    position: relative;
+    top: 140px;
+    font-size: 30pt;
+}
+
+.title button {
+    position: relative;
+    top: 70px;
+    left: 500px;
+    color:rgba(109, 109, 179,0.945);
+    background-color: #fff;
+    font-size: 20pt;
+    border: none;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.list {
+    width: 450px;
+    height: 580px;
+    overflow-y: scroll;
+    margin: 20px auto;
+}
+
+.reminder {
+    width: 470px;
+    height: 50px;
+    border: 1px solid #fff;
+    color: #000;
+    background-color: #fff;
+    list-style: none;
+    line-height: 50px;
+    margin: 5px auto;
+    position: relative;
+    right: 50px;
+    padding: 10px;
+    display: -webkit-inline-box;
+    box-shadow: rgba(0,0,0,0.15) 1.50px 1.50px 2px;
+}
+
+.text {
+    width: 280px;
+}
+.actions {
+    margin-right: 75px;
+}
+
+.btn-check {
+    color: #fff;
+    background-color: rgb(55, 102, 255);
+    border: none;
+    width: 63px;
+    height: 35px;
+}
+
+.btn-delete {
+    color: #fff;
+    background-color: red;
+    border: none;
+    width: 60px;
+    height: 35px;
+    margin: 0 5px;
+}
+.btn-time {
+    color: #000;
+    background-color: aqua;
+    border: none;
+    width: 58px;
+    height: 35px;
+
+}
