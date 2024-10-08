@@ -60,7 +60,7 @@ An MP3 file is used for alarm sounds, which can be played when reminders trigger
 - User Interaction: The application likely has JavaScript functionality that is not shown in the HTML code but would handle interactions such as setting alarms and updating the time display.
 
 
-## Contact
+##git Contact
 For any issues or inquiries, feel free to contact the project maintainer at c.aksharapriya@gmail.com
 
 
